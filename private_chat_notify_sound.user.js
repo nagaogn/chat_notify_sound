@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         chat notify sound
+// @name         private_chat_notify_sound
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Sound a notification when personal chats are received
+// @description  Sound a notification when private chats are received
 // @author       nagao
 // @match        https://minesweeper.online/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=minesweeper.online
@@ -39,6 +39,4 @@
     const config = { childList: true };
 
     observer.observe(targetNode, config);
-
-    notify();
 }
