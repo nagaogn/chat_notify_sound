@@ -1,0 +1,2 @@
+Minesweeper Onlineで、個人チャットが届いたときに通知音を鳴らす。
+Tampermonkeyで使用できます。
