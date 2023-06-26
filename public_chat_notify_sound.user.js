@@ -19,7 +19,7 @@
 
     const targetNode = document.getElementsByClassName('menu_chat_count')[1];
 
-    const regexPattern = /^\((\d)+\+?\)$/;
+    const regexPattern = /^\((\d+)\+?\)$/;
 
     let lastMessageCount = 0;
 
