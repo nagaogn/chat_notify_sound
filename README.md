@@ -1,21 +1,22 @@
 Minesweeper Onlineで、チャットが更新されたときに通知音を鳴らす。  
 
-public_chat_notify_sound.user.js: 公開チャット用  
-private_chat_notify_sound.user.js: 個人チャット用  
+### 導入方法  
+Tampermonkeyをインストール後、使いたい方を選択してインストールしてください。  
 
-Tampermonkeyで使用できます。  
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
+Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
 
-Tampermonkeyをインストール後、使いたいほうのファイルをクリックして｢Raw｣をクリックすればインストール画面が出るので、そこからインストールしてください。  
+公開チャット用: [public_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/public_chat_notify_sound.user.js)  
+個人チャット用: [private_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/private_chat_notify_sound.user.js)  
+
 
 ***
 
 A tool for Minesweeper Online that sounds a notification tone when a chat is posted.  
 
-public_chat_notify_sound.user.js: for public chat  
-private_chat_notify_sound.user.js: for private chat  
+### How to install
+After installing Tampermonkey, select the one you want to use and install it.
 
-Available with Tampermonkey.  
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
+Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
 
-After installing Tampermonkey, click on the file you want to use and click "Raw" to open the installation screen.  
+For public chat: [public_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/public_chat_notify_sound.user.js)  
+For private chat: [private_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/private_chat_notify_sound.user.js)  
