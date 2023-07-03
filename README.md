@@ -8,6 +8,7 @@ Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebh
 公開チャット用: [public_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/public_chat_notify_sound.user.js)  
 個人チャット用: [private_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/private_chat_notify_sound.user.js)  
 
+<sub>※拡張機能やスクリプトは提供元を信頼できる場合のみインストールしてください。</sub>
 
 ***
 
@@ -20,3 +21,5 @@ Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebh
 
 For public chat: [public_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/public_chat_notify_sound.user.js)  
 For private chat: [private_chat_notify_sound.user.js](https://github.com/nagaogn/chat_notify_sound/raw/main/private_chat_notify_sound.user.js)  
+
+<sub>Attention: You should install extensions or scripts only if you trust the provider.</sub>
