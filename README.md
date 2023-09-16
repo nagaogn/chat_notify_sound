@@ -1,4 +1,4 @@
-Minesweeper Onlineで、チャットが更新されたときに通知音を鳴らす。  
+Minesweeper Onlineで、チャットが更新されたときに通知音を鳴らす。[hqtf](https://minesweeper.online/player/6798490)さんと[akim](https://minesweeper.online/player/3639178)さんのアイデアを基に作りました。  
 
 ### 導入方法  
 Tampermonkeyをインストール後、使いたい方を選択してインストールしてください。  
@@ -12,7 +12,7 @@ Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebh
 
 ***
 
-A tool for Minesweeper Online that sounds a notification tone when a chat is posted.  
+A tool for Minesweeper Online that sounds a notification tone when a chat is posted. Created based on the idea by [hqtf](https://minesweeper.online/player/6798490) and [akim](https://minesweeper.online/player/3639178).  
 
 ### How to install
 After installing Tampermonkey, select the one you want to use and install it.
